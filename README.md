@@ -1,1 +1,1 @@
-# devDiary
+Developer Diary for the thesis.

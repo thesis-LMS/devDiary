@@ -1,7 +1,6 @@
-# Developer Diary - {{date}}, {{time}}
 ## Objective:
 What is the goal of this session?
- - 
+- 
 
 ## Activities:
 Tasks completed:
@@ -31,3 +30,5 @@ What will I work on next?
 ## Reflection:
 Key takeaways, learnings, or insights:
 - 
+
+<% await tp.file.move("/" + tp.date.now("Do MMMM YYYY") + "/" + tp.file.creation_date("Do MMMM YYYY, H[h]mm")) %>
